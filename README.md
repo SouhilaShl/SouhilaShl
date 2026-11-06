@@ -1,10 +1,131 @@
-<h1 align="center">Hi, I'm Souhila</h1>
-<h3 align="center">DevSecOps</h3>
+<h1 align="center">Hi, I'm Souhila Sehili 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/souhila-sehili-6960604a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souhila sehili" height="30" width="40" /></a>
+<p align="center">
+  <b>Software & DevSecOps Engineer · PhD in Computer Science</b><br/>
+  I build CI/CD pipelines that stop vulnerable code before it reaches production.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/souhila-sehili/"><img src="https://img.shields.io/badge/LinkedIn-Souhila%20Sehili-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:souhilasehili.s@gmail.com"><img src="https://img.shields.io/badge/Email-souhilasehili.s%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-Normandy%2C%20France-555555?style=for-the-badge" alt="Based in Normandy, France"/>
+  <img src="https://img.shields.io/badge/Open%20to-relocating%20to%20London-1F3864?style=for-the-badge" alt="Open to relocating to London"/>
+</p>
+
+---
+
+## 🧭 About me
+
+- 🛠️ **7 years** building and integrating web applications and **REST APIs** (Python, PHP, JavaScript, Salesforce API).
+- 🔐 Now focused on **DevSecOps**: shifting security left with automated tests, dependency scanning, static analysis and merge gates.
+- 🎓 **PhD in Computer Science** (University of Corsica): discrete event simulation for IoT system design.
+- 👩‍🏫 **Technical trainer since 2020**: I teach web development, databases and Git, and coach developers on good practices.
+- ☁️ **Currently learning:** Terraform on AWS · preparing **AWS Certified Solutions Architect – Associate**.
+- 💼 **Open to:** DevSecOps, DevOps and software engineering roles in **London**.
+
+---
+
+## 🚀 Featured project: [Secure CI/CD pipeline with automated security gates](https://github.com/SouhilaShl/tasks-api)
+
+> **The pipeline is the project.** The FastAPI app is deliberately simple, so the focus stays on how code is tested, scanned, gated, built and deployed.
+
+```mermaid
+flowchart LR
+    A[Pull request] --> B{CI: 3 parallel jobs}
+    B --> C[Tests and lint<br/>pytest + ruff]
+    B --> D[Dependency scan<br/>Trivy: HIGH or CRITICAL fails]
+    B --> E[Static analysis<br/>SonarCloud quality gate]
+    C --> F{Branch protection<br/>3 required checks}
+    D --> F
+    E --> F
+    F -->|all green| G[Merge to main]
+    F -->|any red| H[Merge blocked]
+    G --> I[Docker image<br/>pushed to GHCR]
+    I --> J[Ubuntu VPS<br/>nginx + UFW]
+```
+
+- ✅ **Nothing reaches `main` unchecked:** branch protection with 3 required status checks.
+- 🧪 **Proven, not assumed:** I introduced a known HIGH vulnerability (CVE-2018-18074) and the pipeline blocked the merge.
+- 🔗 **Supply-chain hardening:** every third-party action pinned to a full commit SHA; secrets in GitHub Secrets; least-privilege registry token.
+- 🔍 **Real troubleshooting:** fixed a stuck required check by moving SonarCloud into the pipeline; found and fixed Docker bypassing UFW firewall rules.
+- 🐳 **Deployment:** containerised API on an Ubuntu VPS behind an nginx reverse proxy, container bound to localhost only.
+
+### 🔄 Latest commits on this project
+
+- [Finalise README: fill placeholders, update SonarCloud CI section](https://github.com/SouhilaShl/tasks-api/commit/d5faa59f2552ca94046c40b7f654aae0de7bfda5)
+- [update readme](https://github.com/SouhilaShl/tasks-api/commit/0585b91db0da2ee1d96d717a4e407d53b1a08645)
+- [Add SonarCloud analysis to CI pipeline](https://github.com/SouhilaShl/tasks-api/commit/5a307a39ed28dacc21475ebb5c3e4557a3b10483)
+- [Add SonarCloud project configuration](https://github.com/SouhilaShl/tasks-api/commit/3bfadc486f83d46a6fd311f9084bbf1a70fc9203)
+
+
+---
+
+## 🧰 Tech stack
+
+**Security (DevSecOps)**<br/>
+![SonarCloud](https://img.shields.io/badge/SonarCloud-SAST-F3702A?style=flat-square&logo=sonarqubecloud&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-SCA-1904DA?style=flat-square&logo=trivy&logoColor=white)
+![Secrets](https://img.shields.io/badge/Secrets%20management-GitHub%20Secrets-181717?style=flat-square&logo=github&logoColor=white)
+![Supply chain](https://img.shields.io/badge/Supply%20chain-SHA--pinned%20actions-2EA44F?style=flat-square)
+
+**CI/CD**<br/>
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Containers & Linux**<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Cloud & IaC (learning)**<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+
+**Development**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-Salesforce%20integration-00A1E0?style=flat-square)
+
+**Databases**<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logoColor=white)
+
+---
+
+## 🧠 How I work
+
+| Principle | In practice |
+|---|---|
+| **Rules, not advice** | A scan that can be ignored is a suggestion. Required checks make it a rule. |
+| **Pin what you run** | A tag can be moved by its owner; a commit SHA cannot. |
+| **Report and block, never auto-fix** | The pipeline stops the merge; a person understands and fixes the cause. |
+| **Clean as you code** | Gates enforce quality on new code, so the codebase improves with every change. |
+| **Explain it simply** | If I can teach it to a beginner, I understand it well enough to run it in production. |
+
+---
+
+## 💼 Experience
+
+| Role | Where | When |
+|---|---|---|
+| Technical Trainer (freelance) | Training centres in Rouen and Dieppe | 2020 – present |
+| Software Engineer (freelance) | Wonderlive, decentralised social network | 2025 |
+| Software Engineer | Paris-Normandie, regional newspaper | 2020 – 2021 |
+| Web Developer (internship) | Qwantis, start-up | 2019 |
+| PhD Researcher & Teaching Assistant | University of Corsica | 2013 – 2018 |
+
+🎓 PhD in Computer Science (2018) · Master's in Information Systems and Internet (2013) · 📄 3 papers at international conferences (SIMULTECH 2015, SIGSIM-PADS 2015)
+
+---
+
+<p align="center">
+  <sub>🤖 This README is rebuilt every day by a GitHub Actions workflow using <a href="https://github.com/rderik/octoprofile">octoprofile</a>, pinned to a commit SHA and running with least-privilege permissions.</sub>
+</p>

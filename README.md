@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/souhila-sehili/"><img src="https://img.shields.io/badge/LinkedIn-Souhila%20Sehili-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="mailto:souhilasehili.s@gmail.com"><img src="https://img.shields.io/badge/Email-souhilasehili.s%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Normandy%2C%20France-555555?style=for-the-badge" alt="Based in Normandy, France"/>
-  <img src="https://img.shields.io/badge/Open%20to-relocating%20to%20London-1F3864?style=for-the-badge" alt="Open to relocating to London"/>
+
 </p>
 
 ---
